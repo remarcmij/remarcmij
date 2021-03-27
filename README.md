@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Retired IT Solutions Architect. Current interests: MEAN stack, TypeScript, iOS Swift, Android Java, Python.
+
 <!--
 **remarcmij/remarcmij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
